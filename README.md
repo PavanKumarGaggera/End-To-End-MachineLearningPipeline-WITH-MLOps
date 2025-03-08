@@ -101,24 +101,6 @@ dvc stage add -n evaluate \
 
 ---
 
-## 📢 Social Media Post 📢
-```md
-🚀 **End-to-End ML Pipeline with DVC & MLflow!** 🚀
-
-Looking to build **reproducible, scalable, and trackable** machine learning pipelines? Check out this **DVC + MLflow** setup!
-
-✅ **Data Versioning** with DVC  
-✅ **Experiment Tracking** with MLflow  
-✅ **Random Forest Classifier** Training  
-
-💡 Perfect for **ML research, data science teams, and production-ready AI workflows**.
-
-🔗 [Insert GitHub Link]
-
-#MachineLearning #AI #MLOps #DVC #MLflow #DataScience
-```
-
----
 
 ## 📢 Contributing
 Feel free to open issues or pull requests for improvements!
